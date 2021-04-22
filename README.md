@@ -7,11 +7,12 @@
 
 </div>
 
-```sh
-$ ./whois Sayakie -- --compact
+```diff
+#! /bin/bash
++ $ ./whois Sayakie -- --compact
 
-  I am a vanguard who explores things about I'm curious about. In 2021, I'm interesting and falling with Flutter, Dart!
-Also I want to learn Rust, Go and Kotlin if I have enough time  # Actually, I'm a greedy man (〃▽〃)
+-   I am a vanguard who explores things about I'm curious about. In 2021, I'm interesting and falling with Flutter, Dart!
+- Also I want to learn Rust, Go and Kotlin if I have enough time. Actually, I'm a greedy man (〃▽〃)
 ```
 
 ### 🌱 I’m currently learning
