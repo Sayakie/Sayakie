@@ -31,6 +31,8 @@
   * [properties-translator](https://github.com/dareharu/properties-translator) 
 <img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/typescript.svg" alt="Written with TypeScript" width="20" /><img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/react_ts.svg" alt="Used Preact library" width="20" /><img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/snowpack_light.svg" alt="Used Snowpack library" width="20" /> (2021)<br>
     Progressive web program that provides a tool to translate properties or lang files.
+  * [Hakase](https://github.com/Sayakie/Hakase) <img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/nodejs.svg" alt="Written with TypeScript" width="20" /><img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/typescript.svg" alt="Written with TypeScript" width="20" /> (2021)<br>
+    Search a Pixelmon Pokémon on Discord.
 
 <br>
 <br>
