@@ -11,10 +11,6 @@
 - Also I want to learn Rust, Go and Kotlin if I have enough time. Actually, I'm a greedy man (〃▽〃)
 ```
 
-### 🌱 I’m currently learning
-  * TypeScript, Modern JavaScript (called as ECMAScript), Flutter, Dart
-  * Reinforcement Learning, Nature Language Processing
-
 ### *side projects*
   * [LunchVue](https://github.com/Sayakie/LunchVue.old) 
 <img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/typescript.svg" alt="Written with TypeScript" width="20" /><img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/webpack.svg" alt="Used Webpack" width="20" /><img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/pug.svg" alt="Used Pug" width="20" /> (2018)<br>
@@ -34,12 +30,6 @@
   * [Hakase](https://github.com/Sayakie/Hakase) <img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/nodejs.svg" alt="Written with TypeScript" width="20" /><img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/typescript.svg" alt="Written with TypeScript" width="20" /> (2021)<br>
     Search a Pixelmon Pokémon on Discord.
 
-<br>
-<br>
-<br>
-
-<p align="center">
-  <a href="https://toss.im/slash-21" rel="external noopener nofollow noreferrer">
-    <img src="https://github.com/Sayakie/Sayakie/blob/master/SLASH21.png?raw=true" alt="Toss SLASH21 Conference Archivement" width="500" />
-  </a>
-</p>
+### *co-op projects*
+  * [TriggerReactor/TriggerReactor](https://github.com/TriggerReactor/TriggerReactor) 
+<img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/java.svg" alt="Java language icon" width="20" /> (2022)<br>
