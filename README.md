@@ -33,5 +33,7 @@
     Create a mirror-question in Minecraft or Discord. Client can interact with those questions, join or opt out freely, and obtain an answer.
 
 ### *co-op projects*
+  * [Pixelmon](https://reforged.gg/) 
+<img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/java.svg" alt="Written with Java" width="20" /><img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/minecraft.svg" alt="Associate with Minecraft" width="20" /> (2021 ~ )<br>
   * [TriggerReactor/TriggerReactor](https://github.com/TriggerReactor/TriggerReactor) 
-<img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/java.svg" alt="Written with Java" width="20" /><img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/minecraft.svg" alt="Associate with Minecraft" width="20" /> (2022)<br>
+<img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/java.svg" alt="Written with Java" width="20" /><img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/minecraft.svg" alt="Associate with Minecraft" width="20" /> (2022 ~ )<br>
