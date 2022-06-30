@@ -27,10 +27,12 @@
   * [properties-translator](https://github.com/dareharu/properties-translator) 
 <img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/typescript.svg" alt="Written with TypeScript" width="20" /><img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/react_ts.svg" alt="Used Preact library" width="20" /><img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/snowpack_light.svg" alt="Used Snowpack library" width="20" /> (2021)<br>
     Progressive web program that provides a tool to translate properties or lang files.
-  * [Hakase](https://github.com/Sayakie/Hakase) <img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/nodejs.svg" alt="Written with TypeScript" width="20" /><img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/typescript.svg" alt="Written with TypeScript" width="20" /> (2021)<br>
+  * [Hakase](https://github.com/Sayakie/Hakase) <img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/nodejs.svg" alt="Running on Node.js" width="20" /><img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/typescript.svg" alt="Written with TypeScript" width="20" /> (2021)<br>
     Use the advanced search to explore Pixelmon Reforged Pokémon by type, weakness, ability, and more in Discord!
   * clova <img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/java.svg" alt="Written with Java" width="20" /><img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/minecraft.svg" alt="Associate with Minecraft" width="20" /> (Private; Claimed) (2022)<br>
     Create a mirror-question in Minecraft or Discord. Client can interact with those questions, join or opt out freely, and obtain an answer.
+  * icyonline-monorepo <img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/nodejs.svg" alt="Running on Node.js" width="20" /><img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/pnpm_light.svg" alt="Packages managed by pnpm" width="20" /><img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/typescript.svg" alt="Written with TypeScript" width="20" /> (Private; Claimed) (2022)<br>
+    Monorepo for ICY Online bots interacting with Discord API. Improves management performance, enchants powerful experience to the users who are serviced by ICY Online Discord server.
 
 ### *co-op projects*
   * [Pixelmon](https://reforged.gg/) 
