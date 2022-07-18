@@ -33,6 +33,8 @@
     Create a mirror-question in Minecraft or Discord. Client can interact with those questions, join or opt out freely, and obtain an answer.
   * icyonline-monorepo <img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/nodejs.svg" alt="Running on Node.js" width="20" /><img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/pnpm_light.svg" alt="Packages managed by pnpm" width="20" /><img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/typescript.svg" alt="Written with TypeScript" width="20" /> (Private; Claimed) (2022)<br>
     Monorepo for ICY Online bots interacting with Discord API. Improves management performance, enchants powerful experience to the users who are serviced by ICY Online Discord server.
+  * [TriggerReactor/wiki-bot](https://github.com/TriggerReactor/wiki-bot) <img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/nodejs.svg" alt="Running on Node.js" width="20" /><img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/pnpm_light.svg" alt="Packages managed by pnpm" width="20" /><img src="https://github.com/PKief/vscode-material-icon-theme/raw/main/icons/typescript.svg" alt="Written with TypeScript" width="20" /> (2022)<br>
+    Discord slash command utilities for TriggerReactor developer support.
 
 ### *co-op projects*
   * [Pixelmon](https://reforged.gg/) 
